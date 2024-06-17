@@ -15,12 +15,12 @@ To get a local copy up and running, follow these simple steps:
 - A modern web browser
 
 ### Steps
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/tic-tac-toe.git
-
-2. cd tic-tac-toe
-3. open index.html
+	1. Clone the repository:
+	```sh
+	git clone https://github.com/your-username/tic-tac-toe.git
+	
+	2. cd tic-tac-toe
+	3. open index.html
 
 ## Play the Game
 Click Here : https://game2-tic-tac-toe.netlify.app/
